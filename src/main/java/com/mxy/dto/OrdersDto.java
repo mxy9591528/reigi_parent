@@ -1,8 +1,10 @@
-package com.itheima.reggie.dto;
+package com.mxy.dto;
 
-import com.itheima.reggie.entity.OrderDetail;
-import com.itheima.reggie.entity.Orders;
+
+import com.mxy.entity.OrderDetail;
+import com.mxy.entity.Orders;
 import lombok.Data;
+
 import java.util.List;
 
 @Data
@@ -17,5 +19,6 @@ public class OrdersDto extends Orders {
     private String consignee;
 
     private List<OrderDetail> orderDetails;
-	
+
+    private int sumNum;
 }

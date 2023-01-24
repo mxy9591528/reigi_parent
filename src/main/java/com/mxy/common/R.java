@@ -1,9 +1,12 @@
-package com.itheima.reggie.common;
+package com.mxy.common;
 
 import lombok.Data;
 import java.util.HashMap;
 import java.util.Map;
 
+/*
+* 通用返回结果类
+*/
 @Data
 public class R<T> {
 

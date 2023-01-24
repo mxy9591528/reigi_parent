@@ -1,4 +1,4 @@
-package com.itheima.reggie.utils;
+package com.mxy.utils;
 
 import com.aliyuncs.DefaultAcsClient;
 import com.aliyuncs.IAcsClient;

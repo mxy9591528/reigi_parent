@@ -1,4 +1,4 @@
-package com.mxy.service.impl;
+package com.mxy.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
 import com.mxy.entity.Employee;

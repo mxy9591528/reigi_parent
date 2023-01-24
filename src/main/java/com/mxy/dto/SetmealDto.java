@@ -1,8 +1,10 @@
-package com.itheima.reggie.dto;
+package com.mxy.dto;
 
-import com.itheima.reggie.entity.Setmeal;
-import com.itheima.reggie.entity.SetmealDish;
+
+import com.mxy.entity.Setmeal;
+import com.mxy.entity.SetmealDish;
 import lombok.Data;
+
 import java.util.List;
 
 @Data

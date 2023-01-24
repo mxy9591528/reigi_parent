@@ -1,7 +1,7 @@
 package com.mxy.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.mxy.entity.User;
+import com.mxy.entity.OrderDetail;
 
-public interface UserService extends IService<User> {
+public interface OrderDetailService extends IService<OrderDetail> {
 }

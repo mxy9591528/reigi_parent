@@ -1,7 +1,7 @@
 package com.mxy.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.mxy.entity.User;
+import com.mxy.entity.ShoppingCart;
 
-public interface UserService extends IService<User> {
+public interface ShoppingCartService extends IService<ShoppingCart> {
 }

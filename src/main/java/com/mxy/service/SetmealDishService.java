@@ -1,7 +1,7 @@
 package com.mxy.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.mxy.entity.Setmeal;
+import com.mxy.entity.SetmealDish;
 
-public interface SetmealService extends IService<Setmeal> {
+public interface SetmealDishService extends IService<SetmealDish> {
 }

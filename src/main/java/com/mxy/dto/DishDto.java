@@ -1,7 +1,8 @@
-package com.itheima.reggie.dto;
+package com.mxy.dto;
 
-import com.itheima.reggie.entity.Dish;
-import com.itheima.reggie.entity.DishFlavor;
+
+import com.mxy.entity.Dish;
+import com.mxy.entity.DishFlavor;
 import lombok.Data;
 import java.util.ArrayList;
 import java.util.List;

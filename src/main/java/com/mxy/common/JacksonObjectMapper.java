@@ -1,4 +1,4 @@
-package com.itheima.reggie.common;
+package com.mxy.common;
 
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;

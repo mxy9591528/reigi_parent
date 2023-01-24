@@ -1,7 +1,7 @@
 package com.mxy.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.mxy.entity.User;
+import com.mxy.entity.AddressBook;
 
-public interface UserService extends IService<User> {
+public interface AddressBookService extends IService<AddressBook> {
 }

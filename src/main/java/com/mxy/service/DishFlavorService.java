@@ -1,7 +1,7 @@
 package com.mxy.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.mxy.entity.Dish;
+import com.mxy.entity.DishFlavor;
 
-public interface DishService extends IService<Dish> {
+public interface DishFlavorService extends IService<DishFlavor> {
 }
